@@ -1,5 +1,6 @@
 <div class="flex justify-between mx-20 relative">
     <div class="flex flex-col gap-5 max-w-2xl mt-48">
+      <img src="img/Groupp.png" alt="" class="absolute top-32 left-0.  p-1 rounded-xl" width="60">
       <p class="text-5xl">Knowledge Connection</p>
       <p class="text-5xl font-bold">Open the Door to the Future</p>
       <div>
