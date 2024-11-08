@@ -1,4 +1,4 @@
-<div class="flex flex-col">
+<div class="flex flex-col mt-48">
     <p class="text-4xl text-center text-blue-800 font-bold">Lessons revolve around 4 areas</p>
     <div class="flex justify-center">
         <p class="text-xl max-w-2xl text-center mt-5 text-slate-400">Diverse lessons around 4 subjects: Math, literature,

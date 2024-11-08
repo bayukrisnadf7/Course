@@ -1,4 +1,4 @@
-<div class="flex gap-10 mx-20 relative">
+<div class="flex gap-10 mx-20 relative mt-40">
     <img src="img/Group 10.png" alt="">
     <img src="img/book 1.png" alt="" class="absolute top-6 left-12 bg-slate-100 p-3 rounded-xl">
     <img src="img/Group.png" alt="" class="absolute bottom-20 left-12 bg-slate-100 p-2 rounded-xl">
